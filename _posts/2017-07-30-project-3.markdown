@@ -8,8 +8,8 @@ img: blocjams.png
 thumbnail: blocjams.png
 alt: image-alt
 project-date: May 2017
-client: School Project
-category: Web Development
+github: bloc-jams-angular
+category: Front-end Development
 description: Bloc Jams is a digital music player project built into the Bloc Web Developer Track curriculum. This project was my first introduction to vanilla Javascript then refactored into jQuery, then finally AngularJS.
 
 ---

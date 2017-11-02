@@ -1,5 +1,5 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: http://lauraslingerland.com
+baseurl: ""
 
 # Site settings
 title: Laura Slingerland
@@ -22,8 +22,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 3277 Huntington Pl Dr
+  - line: Sarasota, FL 34237
 
 # Build settings
 markdown: kramdown

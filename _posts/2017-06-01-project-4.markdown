@@ -8,8 +8,8 @@ img: blocchat.png
 thumbnail: blocchat.png
 alt: image-alt
 project-date: July 2017
-client: School Project
-category: Web Development
+github: bloc-chat
+category: Front-end Development
 description: Bloc Chat is a project built into the Bloc Web Developer Track curriculum. It is a real-time chat application built with Firebase and AngularJS.
 
 ---

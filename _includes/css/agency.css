@@ -176,17 +176,16 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Montserrat","Helvetica Neue",Helvetica,Arial;
-    color: #2F4D60;
-    text-transform: uppercase;
-    font-weight: 400;
+    font-family: {{ site.data.template.font.secondary }};
+    color: #fff;
+    font-style: italic;
 }
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #2F4D60;
+    color: #F7B733;
 }
 
 .navbar-default .navbar-collapse {
@@ -195,7 +194,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-toggle {
     border-color: #{{ site.data.template.color.primary }};
-    background-color: #2F4D60;
+    background-color: #F7B733;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -204,7 +203,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #2F4D60;
+    background-color: #F7B733;
 }
 
 .navbar-default .nav li a {
@@ -221,13 +220,13 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: #2F4D60;
+    color: #F7B733;
 }
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
     color: #fff;
-    background-color: #2F4D60;
+    background-color: #F7B733;
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
@@ -247,7 +246,7 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default .navbar-brand {
-        font-size: 2em;
+        font-size: 1.75em;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
@@ -259,7 +258,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #2F4D60;
+        background-color: #4ABDAC;
         opacity: 0.5;
     }
 
