@@ -1,0 +1,15 @@
+---
+title: Focus
+subtitle: AngularJS
+layout: default
+modal-id: 3
+date: 2017-10-01
+img: focus.png
+thumbnail: focus.png
+alt: Focus App
+project-date: October 2017
+github: bloctime
+category: Front-end Development
+description: Focus is a Pomodoro Technique time management application built with Firebase and Angular. <a href="https://powerful-gorge-25230.herokuapp.com/" target="_blank">View the demo app</a>.
+
+---
