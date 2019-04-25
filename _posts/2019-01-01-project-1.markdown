@@ -1,5 +1,5 @@
 ---
-title: St. Petersburg International Baseball
+title: St. Pete International Baseball
 subtitle: Bootstrap
 layout: default
 modal-id: 1
